@@ -1,0 +1,62 @@
+.mother{
+    margin: auto;
+    width: 60%;
+    height: 900px;
+    background-color: black ;
+}
+
+.header{
+    height: 200px;
+    color: gold;
+}
+
+.main{
+    background-color: black;
+    width: 100%;
+    height: 500px;
+    display: flex;
+}
+.menu{
+    background-color: yellow;
+    width: 30%;
+    height: 500px;
+}
+.content{
+    background-color: green;
+    width: 70%;
+    height: 500px;
+}
+.photo{
+    margin: auto;
+    margin-top: 50px;
+    background-color: green;
+    width: 300px;
+    height: 200px;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+h1{
+    text-align: center;
+}
+.box_block{
+    margin-top: 100px;
+    background-color: green;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.block{
+    background-color: black;
+    width: 100px;
+    height: 100%;
+    
+}
+
+.footer{
+    height: 200px;
+    color: gold;
+}
